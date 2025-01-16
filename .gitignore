@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Dependency directories
+node_modules/
+jspm_packages/
